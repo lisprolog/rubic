@@ -1,0 +1,2 @@
+# rubic
+rubic cube algorithms
