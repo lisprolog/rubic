@@ -1,0 +1,38 @@
+2x2
+
+Ri Di R D             (Finish one side)
+U R Ui Li U Ri Ui L   (Position the other side) 
+Ri Di R D             (Turn the colors to Finish)
+
+3x3
+
+U R Ui Ri Ui Fi U F   (right cross pixel)
+Ui Li U L U F Ui Fi   (left cross pixel)
+F R U Ui Ri Fi        (last side color upside)
+R U Ri U R U U Ri     (Cross Position)
+U R Ui Li U Ri Ui L   (Edge Position the last top)
+
+4x4
+
+Flipping 2 Corners Parity
+
+2U* 2L* 2U 2l 2U
+2L* 2U* Fi Ui F U F
+Ri 2F U F U Fi Ui F R
+
+Last Edges of Sides
+
+D* R Fi U Ri F Di* || 2R , B, D, R
+
+Flip an Edge Parity
+
+2R* 2B 2U L* 2U Ri* 2U R*
+    2U 2F R* 2F Li* 2B 2R*
+    
+5x5
+
+Last Edges Parity
+
+(Ll)i U2 (Ll)i U2 F2
+(Ll)i F2 (Rr)  U2 (Rr)i
+      U2 (Ll)2
